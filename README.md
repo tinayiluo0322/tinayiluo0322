@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I'm Luopeiwen (Tina) Yi 👋
 
-<!--
-**tinayiluo0322/tinayiluo0322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I'm a data enthusiast with a passion for exploring and analyzing datasets to uncover insights and tell data-driven stories. My journey in data analysis involves working with various tools and libraries, from R and Python to SQL, machine learning, and natural language processing.
 
-Here are some ideas to get you started:
+🔍 Exploratory Data Analysis (EDA) is my playground, where I dive deep into data to understand its patterns, relationships, and quirks. I'm all about transforming raw data into meaningful visualizations, statistical models, and delving into the world of NLP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 When I'm not crunching numbers, you'll find me sharing insights and code snippets related to EDA, statistical modeling, NLP, and data visualization. I'm also a fan of open-source projects and collaborative data analysis.
+
+📫 How to reach me: tina.yi@duke.edu / ly178@duke.edu
+
+📄 Know about my experiences: https://www.linkedin.com/in/luopeiwen-yi/
+
+🌱 Let's connect, collaborate, and learn together in the exciting world of data analysis, machine learning, and NLP. Feel free to explore my repositories and reach out for data-driven discussions!
+
+📈 Data Enthusiast | EDA Explorer | ML & NLP Enthusiast | Python & R Aficionado | Open-Source Advocate | Lifelong Learner 📊
+
