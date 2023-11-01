@@ -2,7 +2,7 @@
 
 👋 Hi there! I'm a data enthusiast with a passion for exploring and analyzing datasets to uncover insights and tell data-driven stories. My journey in data analysis involves working with various tools and libraries, from R and Python to SQL, machine learning, and natural language processing.
 
-🔍 Exploratory Data Analysis (EDA) is my playground, where I dive deep into data to understand its patterns, relationships, and quirks. I'm all about transforming raw data into meaningful visualizations, statistical models, and delving into the world of NLP.
+🔍 Data Science is my playground, where I dive deep into data to understand its patterns, relationships, and quirks. I'm all about transforming raw data into meaningful visualizations, statistical models, and delving into the world of NLP.
 
 📊 When I'm not crunching numbers, you'll find me sharing insights and code snippets related to EDA, statistical modeling, NLP, and data visualization. I'm also a fan of open-source projects and collaborative data analysis.
 
