@@ -1,16 +1,15 @@
 ### Hi, I'm Luopeiwen (Tina) Yi 👋
 
-👋 Hi there! I'm a data enthusiast with a passion for exploring and analyzing datasets to uncover insights and tell data-driven stories. My journey in data analysis involves working with various tools and libraries, from R and Python to SQL, machine learning, and natural language processing.
+👋 Hello! I'm a passionate **data scientist** with a strong focus on **machine learning**, **deep learning**, and cutting-edge technologies like **natural language processing (NLP)** and **computer vision**. My work revolves around developing models that leverage structured and unstructured data to drive insights, automate decision-making, and solve real-world problems.
 
-🔍 Data Science is my playground, where I dive deep into data to understand its patterns, relationships, and quirks. I'm all about transforming raw data into meaningful visualizations, statistical models, and delving into the world of NLP.
+🌐 I'm experienced in using popular frameworks such as **TensorFlow**, **PyTorch**, and **Hugging Face** to build and fine-tune models, whether it’s for image classification, object detection, large language models, or large-scale data analytics in the **cloud**. From deploying models to cloud platforms like **AWS** and **Azure** to handling large datasets, I enjoy the end-to-end machine learning pipeline.
 
-📊 When I'm not crunching numbers, you'll find me sharing insights and code snippets related to EDA, statistical modeling, NLP, and data visualization. I'm also a fan of open-source projects and collaborative data analysis.
+📊 When I’m not working on model training or optimization, I’m diving deep into **data exploration**, creating **data visualizations**, and sharing code snippets related to **computer vision**, **NLP**, and **LLM-based solutions**. I’m also a big advocate for **open-source projects** and collaboration within the data science community.
 
-📫 How to reach me: tina.yi@duke.edu / ly178@duke.edu
+📫 Feel free to reach out at: tina.yi@duke.edu / ly178@duke.edu
 
-📄 Know about my experiences: https://www.linkedin.com/in/luopeiwen-yi/
+📄 Learn more about my experience: [LinkedIn Profile](https://www.linkedin.com/in/luopeiwen-yi/)
 
-🌱 Let's connect, collaborate, and learn together in the exciting world of data analysis, machine learning, and NLP. Feel free to explore my repositories and reach out for data-driven discussions!
+🌱 Let’s connect and collaborate in the exciting fields of **machine learning**, **deep learning**, and **cloud AI**. Explore my repositories and feel free to reach out for discussions on everything from **LLMs** to **computer vision**!
 
-📈 Data Enthusiast | EDA Explorer | ML & NLP Enthusiast | Python & R Aficionado | Open-Source Advocate | Lifelong Learner 📊
-
+📈 Data Scientist | ML & Deep Learning Enthusiast | NLP & Computer Vision Specialist | Cloud Computing | Open-Source Advocate | Lifelong Learner 🌟
