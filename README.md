@@ -12,4 +12,14 @@
 
 🌱 Let’s connect and collaborate in the exciting fields of **machine learning**, **deep learning**, and **cloud AI**. Explore my repositories and feel free to reach out for discussions on everything from **LLMs** to **computer vision**!
 
+## Awards and Honors 🏆
+
+- **Duke AI Hackathon 2024**: Secured the **2nd Grand Prize** and the **Best Art, Media & Design Prize** with our innovative project, *Bobcat: Your AI Companion That Sings Your Story*.
+
+- **ASA DataFest 2024**: Outperformed 245 participants across 67 teams to win the **Best Visualization Award** with the project *From 'Hello World' to Beyond: An Analysis of Statistical & Data Science Learning Journey*.
+
+- **Travelers Analytics and Modeling Competition 2023**: Achieved a **Top-3 finish** among 22 teams from 7 leading U.S. universities with the project *Insnova Auto Claim Case Study*.
+
+- **International Day of Women in Statistics and Data Science (IDWSDS) 2024 Conference**: Presented the research titled *Examining the Impact of Image Preprocessing on Diabetic Retinopathy Detection: A Cross-Dataset Analysis with Varied Camera Sources*.
+
 📈 Data Scientist | ML & Deep Learning Enthusiast | NLP & Computer Vision Specialist | Cloud Computing | Open-Source Advocate | Lifelong Learner 🌟
