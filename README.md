@@ -16,7 +16,7 @@
 
 #### Awards and Honors 🏆
 
-- **Duke AI Hackathon 2024**: Secured the **2nd Grand Prize** and the **Best Art, Media & Design Prize** with our innovative project, *Bobcat: Your AI Companion That Sings Your Story*.
+- **Duke AI Hackathon 2024**: Secured the **2nd Grand Prize** and the **Best Art, Media & Design Prize** with our innovative product, *Bobcat: Your AI Companion That Sings Your Story*.
 
 - **ASA DataFest 2024**: Outperformed 245 participants across 67 teams to win the **Best Visualization Award** with the project *From 'Hello World' to Beyond: An Analysis of Statistical & Data Science Learning Journey*.
 
