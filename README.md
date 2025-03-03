@@ -10,6 +10,9 @@
 
 - **Travelers Analytics and Modeling Competition 2023**: Achieved a **Top-3 finish** among 22 teams from 7 leading U.S. universities with the project *Insnova Auto Claim Case Study*.
 
+#### Research 📖
+- **Duke 2025 Responsible AI Symposium**: Presented the research titled *Explainable Deep Learning for Pneumonia Detection in Medical Imaging*.
+  
 - **International Day of Women in Statistics and Data Science (IDWSDS) 2024 Conference**: Presented the research titled *Examining the Impact of Image Preprocessing on Diabetic Retinopathy Detection: A Cross-Dataset Analysis with Varied Camera Sources*.
 
 👋 Hello! I'm a passionate **data scientist** with a strong focus on **machine learning**, **deep learning**, and cutting-edge technologies like **natural language processing (NLP)** and **computer vision**. My work revolves around developing models that leverage structured and unstructured data to drive insights, automate decision-making, and solve real-world problems.
