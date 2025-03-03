@@ -15,6 +15,10 @@
   
 - **International Day of Women in Statistics and Data Science (IDWSDS) 2024 Conference**: Presented the research titled *Examining the Impact of Image Preprocessing on Diabetic Retinopathy Detection: A Cross-Dataset Analysis with Varied Camera Sources*.
 
+- **2022 NYU Inquiry: A Journal of Undergraduate Research**: Featured the IR senior honor research titled *The Impact of E-Commerce on China's Rural Poverty*.
+
+- **2022 Pi Sigma Alpha National Student Research Conference**: Presented the research titled *The Impact of Chinese Government Policy on the Survival of China's SMEs during COVID-19*.
+
 👋 Hello! I'm a passionate **data scientist** with a strong focus on **machine learning**, **deep learning**, and cutting-edge technologies like **natural language processing (NLP)** and **computer vision**. My work revolves around developing models that leverage structured and unstructured data to drive insights, automate decision-making, and solve real-world problems.
 
 🌐 I'm experienced in using popular frameworks such as **TensorFlow**, **PyTorch**, and **Hugging Face** to build and fine-tune models, whether it’s for image classification, object detection, large language models, or large-scale data analytics in the **cloud**. From deploying models to cloud platforms like **AWS** and **Azure** to handling large datasets, I enjoy the end-to-end machine learning pipeline.
