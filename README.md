@@ -2,6 +2,8 @@
 
 #### Awards and Honors 🏆
 
+- **2025 LIVE AI Ivy Plus Duke & Harvard Hackathon**:🏅 Global Entry Awards: **1st Global Grand Prize (Gold)**, AI & ML 1st Place, Best Development, Best Product; and 🏅 Duke Campus Entry Awards: Gold Prize, AI/ML 1st Place, Best Product Design, Best Product Demo.
+  
 - **Computer Vision Projects Expo 2024**: honored with the **Most Engaging Presentation Award** with over 500 submissions from researchers and professionals worldwide and an award acceptance rate of just 6%.
 
 - **Duke AI Hackathon 2024**: Secured the **2nd Grand Prize** and the **Best Art, Media & Design Prize** with our innovative product, *Bobcat: Your AI Companion That Sings Your Story*.
