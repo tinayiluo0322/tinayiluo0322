@@ -2,6 +2,8 @@
 
 #### Awards and Honors 🏆
 
+- **2025 Agentic AI Innovation Challenge**: Received the Most Innovative Project Award, selected from over 675+ submissions across 70+ countries, with an award acceptance rate of less than 6%.
+  
 - **2025 LIVE AI Ivy Plus Duke & Harvard Hackathon**:🏅 Global Entry Awards: **1st Global Grand Prize (Gold)**, AI & ML 1st Place, Best Development, Best Product; and 🏅 Duke Campus Entry Awards: Gold Prize, AI/ML 1st Place, Best Product Design, Best Product Demo.
   
 - **Computer Vision Projects Expo 2024**: honored with the **Most Engaging Presentation Award** with over 500 submissions from researchers and professionals worldwide and an award acceptance rate of just 6%.
